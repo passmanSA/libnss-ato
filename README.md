@@ -3,6 +3,8 @@ libnss-ato (Name Service Switch module All-To-One)
 
 The libnss_ato module is a set of C library extensions which allows to map every nss request for unknown user to a single predefined user.
 
+This version of libnss-ato has been forked from donapieppo/libnss-ato, and modified by PassmanSA based on commits mande on Metaswitch fork (https://github.com/Metaswitch/libnss-ato).
+
 Description
 =========
 
